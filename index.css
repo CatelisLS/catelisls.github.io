@@ -135,11 +135,13 @@ body {
     height: 400px;
     color: var(--white);
     display: flex;
+    align-items: center;
+    justify-content: center;
     flex-direction: column;
-    justify-content: space-between;
     text-align: center;
-    padding: 40px 0;
+    gap: 20px;
 }
+
 
 .hero h1 {
     font-size: 2.0rem;
@@ -775,6 +777,7 @@ body {
     border-bottom-color: var(--secondary-color);
 
 }
+
 
 
 
