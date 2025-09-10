@@ -140,7 +140,7 @@ body {
 }
 
 .hero h1 {
-    font-size: 3.5rem;
+    font-size: 3.0rem;
     margin-bottom: 20px;
 }
 
@@ -771,4 +771,5 @@ body {
 .dark-mode .category-title {
     color: var(--secondary-color);
     border-bottom-color: var(--secondary-color);
+
 }
