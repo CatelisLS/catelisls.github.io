@@ -140,13 +140,13 @@ body {
 }
 
 .hero h1 {
-    font-size: 3.0rem;
-    margin-bottom: 20px;
+    font-size: 2.0rem;
+    margin-bottom: 10px;
 }
 
 .hero p {
     font-size: 1.5rem;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .cta-buttons {
@@ -773,3 +773,4 @@ body {
     border-bottom-color: var(--secondary-color);
 
 }
+
